@@ -1,11 +1,9 @@
 ---
-layout: archive
+layout: media
 permalink: /
 title: "AGPR"
+image:
+ feature:
+ teaser: logoICP.jpg
 ---
-
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+![Cover image]({{ "images/Historical_Documents_at_the_Archivo_General_de_Puerto_Rico_-_Instituto_de_Cultura_Puertorriqueña.jpg" | absolute_url }})

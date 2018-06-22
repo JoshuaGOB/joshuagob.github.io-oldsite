@@ -35,7 +35,7 @@ owner:
     ad-client:
     ad-slot:
   bio: Portal Digital del AGPR
-  avatar: images/sitepageimage.png # 160x160 px image for author byline
+  avatar: sitepageimage.png # 160x160 px image for author byline
   disqus-shortname:
 
 # markdown: redcarpet
