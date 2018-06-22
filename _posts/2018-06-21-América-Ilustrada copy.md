@@ -4,7 +4,7 @@ title: Getting stuff out and people in
 date: 2018-06-10
 categories: Newspapers, Spanish, XIX
 image:
-  feature: image/biblioteca_historica.jpg
+  feature: images/biblioteca_historica.jpg
 ---
 
 **Getting stuff out and people in**

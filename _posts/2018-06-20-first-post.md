@@ -4,7 +4,7 @@ title: O Novo Mundo
 date: 2018-06-20
 categories: Newspapers, Portuguese, XIX
 image:
-  feature: image/01-Janeiro-1872.jpg
+  feature: images/01-Janeiro-1872.jpg
 ---
 
 
@@ -20,7 +20,7 @@ image:
 	Morbi nec mauris neque. Sed leo est, molestie nec dolor id,
 	venenatis fermentum dolor.
 
-​	![O Novo Mundo Cover]({{ "/assets/images/01-Janeiro-1872.jpg" | absolute_url }})
+​	![O Novo Mundo Cover]({{ "images/01-Janeiro-1872.jpg" | absolute_url }})
 ![O Novo Mundo Cover]({{ "assets/images/01-Janeiro-1872.jpg" | absolute_url }})
 
 Nulla facilisi. Aliquam nec congue urna. Nulla facilisi.
