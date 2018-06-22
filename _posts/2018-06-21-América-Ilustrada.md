@@ -3,6 +3,8 @@ layout: default
 title: La América Ilustrada
 date: 2018-06-11
 categories: Newspapers, Spanish, XIX
+image:
+  feature: image/Laamericailustrada1872-01-30.jpg
 ---
 
 Praesent convallis cursus purus, vel egestas metus auctor non. Donec at tempor mi. Donec id ligula quis orci commodo dapibus tempus eu purus. Praesent ac lobortis magna. Proin tristique tempor felis non auctor. Aliquam pulvinar scelerisque sapien nec semper. Aenean elementum urna sit amet vestibulum cursus. Suspendisse potenti. Nulla facilisi. Integer feugiat ligula porta justo vestibulum suscipit in at orci. Donec porta tristique faucibus. Donec pulvinar mauris dictum, pretium nisl nec, convallis enim.
