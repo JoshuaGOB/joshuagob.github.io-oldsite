@@ -4,11 +4,13 @@
   url: /posts/
   excerpt: "Contributions"
   image:
+
 - title: Collections
   url: /collections/
   excerpt: "Collections from the Archives"
   image:
+    
 - title: Data
   url: /datas/
   excerpt: "Data from the posts"
-  image: 
+  image:
