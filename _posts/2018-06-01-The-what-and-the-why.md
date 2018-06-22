@@ -2,13 +2,13 @@
 
 layout: default
 layout: media
-layout: article 
+layout: article
 title: The What and the Why
 date: 2018-06-09
 categories: Newspapers, Spanish, XIX
 image:
- feature: images/archivo_landing.jpg
- teaser: images/logoICP.jpg
+ feature: archivo_landing.jpg
+ teaser: logoICP.jpg
 
 ---
 
