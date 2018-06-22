@@ -22,8 +22,6 @@ image:
 	venenatis fermentum dolor.
 
 ​![O Novo Mundo Cover]({{ "images/01-Janeiro-1872.jpg" | absolute_url }})
-![O Novo Mundo Cover]({{ "assets/images/01-Janeiro-1872.jpg" | absolute_url }})
-![América Ilustrada Cover]({{ "images/archivo_landing.jpg" | absolute_url }})
 
 Nulla facilisi. Aliquam nec congue urna. Nulla facilisi.
 Class aptent taciti sociosqu ad litora torquent per conubia
