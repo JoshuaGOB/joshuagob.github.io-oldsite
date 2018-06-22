@@ -6,7 +6,7 @@ permalink: /collections/
 modified:
 excerpt:
 image:
-  feature: 
+  feature: archivo-viejo-con-las-cartas.jpg
   teaser:
   thumb:
 ---
@@ -27,3 +27,7 @@ image:
   {% endfor %}
 
 </ul>
+
+
+
+![Archivo Viejo]({{ "images/archivero.png" | absolute_url }})
