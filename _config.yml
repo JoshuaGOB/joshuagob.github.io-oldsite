@@ -42,7 +42,7 @@ owner:
 
 include:
   - .htaccess
-  - posts/
+  - _posts/
   - datas/
   - collections/
 
