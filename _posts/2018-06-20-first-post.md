@@ -9,7 +9,7 @@ categories: Newspapers, Portuguese, XIX
 
 **What's in a name?**
 
-*What's in the New World* 
+*What's in the New World*
 
 ​	Quisque a gravida sem. Nullam varius magna metus.
 	Etiam condimentum egestas odio a rutrum. Aenean odio velit,
@@ -19,6 +19,7 @@ categories: Newspapers, Portuguese, XIX
 	venenatis fermentum dolor.
 
 ​	![O Novo Mundo Cover]({{ "/assets/images/01-Janeiro-1872.jpg" | absolute_url }})
+![O Novo Mundo Cover]({{ "assets/images/01-Janeiro-1872.jpg" | absolute_url }})
 
 Nulla facilisi. Aliquam nec congue urna. Nulla facilisi.
 Class aptent taciti sociosqu ad litora torquent per conubia
