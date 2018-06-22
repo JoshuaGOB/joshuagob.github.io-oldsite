@@ -2,7 +2,7 @@
 #layout: default
 #layout: media
 layout: article
-title: The What and the Why
+title: Does Dr. Lewis have ADHD?
 date: 2018-06-20
 categories: Newspapers, Spanish, XIX
 image:
@@ -11,8 +11,8 @@ image:
 ---
 
 
-Does Dr. Lewis have ADHD?
 
-Nope!
+
+**Nope!**
 
 
