@@ -5,7 +5,7 @@ title: The What and the Why
 date: 2018-06-09
 categories: Newspapers, Spanish, XIX
 image:
- feature: archivo_landing.jpg
+ feature: /images/archivo_landing.jpg
 
 ---
 
@@ -21,4 +21,4 @@ Except, among those papers are the FBI disinformation files manufactured against
 
 Well, that's the issue with archives and specially paper based archives. You really need to see it to get into it. And that's what this is all about.
 
-![América Ilustrada Cover]({{ "/assets/images/archivo_landing.jpg" | absolute_url }})
+![América Ilustrada Cover]({{ "images/archivo_landing.jpg" | absolute_url }})
