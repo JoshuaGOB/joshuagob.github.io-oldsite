@@ -246,7 +246,7 @@
 		padding: 3em;
 	}
 	h1 {
-		@include font-size(48);
+		@include font-size(58);
 		@include media($medium) {
 			@include font-size(60);
 		}
