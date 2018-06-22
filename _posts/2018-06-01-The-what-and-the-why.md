@@ -1,8 +1,12 @@
 ---
+
 layout: default
 title: The What and the Why
 date: 2018-06-09
 categories: Newspapers, Spanish, XIX
+image:
+ feature: archivo_landing.jpg
+
 ---
 
 **What's an archive and why do we care**
