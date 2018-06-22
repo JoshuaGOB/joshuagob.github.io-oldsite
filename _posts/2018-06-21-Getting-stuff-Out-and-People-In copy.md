@@ -18,16 +18,3 @@ There's one of the largest municipal parks across the street and a beach beyond 
 {::options parse_block_html="true" /}
 ![Hall Image]({{ "images/biblioteca_historica.jpg" | absolute_url }}){: style="display: block; margin-right:auto; float: left"}  
 and also because their budget is mainly for preservation of materials in a climate that is **anathema** to these efforts. However, the AGPR is still used by people, mainly researchers, for their own intellectual work. What would happen if we could make a version of that work available for the public?
-
-
-
-
-
-
-
-<div>
-This is wrapped in a para.
-</div>
-<p>
-This can contain only *span* level elements.
-</p>
