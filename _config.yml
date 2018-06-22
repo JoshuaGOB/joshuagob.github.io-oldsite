@@ -2,8 +2,8 @@
 
 title: "Portal Digital del Archivo General de Puerto Rico"
 description: "El Archivo y su público"
-logo: images/sitepageimage.png # 120x120 px default image used for Twitter summary card
-teaser: images/logoICP.jpg # 400x250 px default teaser image used in image archive grid
+logo: sitepageimage.png # 120x120 px default image used for Twitter summary card
+teaser: logoICP.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
 url: https://joshuagob.github.io/
 #url: http://localhost:4000
