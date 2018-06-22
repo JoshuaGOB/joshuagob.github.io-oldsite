@@ -42,9 +42,9 @@ owner:
 
 include:
   - .htaccess
-  - _posts
-  - datas
-  - collections
+  - posts/
+  - datas/
+  - collections/
 
 exclude:
   - "*.less"
