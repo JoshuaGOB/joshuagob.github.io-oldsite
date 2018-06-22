@@ -1,7 +1,7 @@
 ---
 layout: article
 title: La America Ilustrada
-date: 2018-06-02
+date: 2018-06-01
 categories: Newspapers, Spanish, XIX
 image:
 #  feature: images/Laamericailustrada1872-01-30.jpg
