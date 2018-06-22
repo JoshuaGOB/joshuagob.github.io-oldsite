@@ -5,6 +5,7 @@ date: 2018-06-20
 categories: Newspapers, Portuguese, XIX
 image:
   feature: images/01-Janeiro-1872.jpg
+  teaser: images/logoICP.jpg
 
 ---
 

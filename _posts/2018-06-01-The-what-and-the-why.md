@@ -6,12 +6,13 @@ date: 2018-06-09
 categories: Newspapers, Spanish, XIX
 image:
  feature: images/archivo_landing.jpg
+ teaser: images/logoICP.jpg
 
 ---
 
 **What's an archive and why do we care**
 
-<span style="color: gray">The General Archive of Puerto Rico was established by law in 1955 and officialy inaugurated in 1972. Over that period, the building was renovated, having previously been a hospital, jail and tobacco factory. The AGPR is under the Institute of Puerto Rican Culture but it's main function has been to preserve the textual production of every government entity on the Island.</span>
+The General Archive of Puerto Rico was established by law in 1955 and officialy inaugurated in 1972. Over that period, the building was renovated, having previously been a hospital, jail and tobacco factory. The AGPR is under the Institute of Puerto Rican Culture but it's main function has been to preserve the textual production of every government entity on the Island.
 
 <u>This sounds super boring</u>
 

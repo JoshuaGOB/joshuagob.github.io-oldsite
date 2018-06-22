@@ -5,6 +5,7 @@ date: 2018-06-10
 categories: Newspapers, Spanish, XIX
 image:
   feature: images/biblioteca_historica.jpg
+  teaser: images/logoICP.jpg
 ---
 
 **Getting stuff out and people in**
