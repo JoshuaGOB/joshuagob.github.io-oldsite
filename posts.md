@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: _posts/
+permalink: /_posts/
 title: "Latest Posts"
 image:
   teaser: 
