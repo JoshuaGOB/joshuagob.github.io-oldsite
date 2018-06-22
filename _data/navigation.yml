@@ -6,9 +6,9 @@
   image: logoICP.jpg
 
 - title: Collections
-  url: collections/
+  url: /collections/
   excerpt: "Collections from the Archives"
-  image:
+  image: what_will_he_do.jpg
 
 - title: Data
   url: datas/
