@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /_posts
+permalink: /posts
 title: "Latest Posts"
 image:
-  teaser: 400x250.gif
-  feature: feature-image-filename.jpg
+  teaser: 
+  feature: embema_oficial.jpg
 ---
 
 <div class="tiles">
