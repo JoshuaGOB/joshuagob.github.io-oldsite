@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /_posts/
+permalink: _posts/
 title: "Latest Posts"
 image:
-  teaser: 
+  teaser:
   feature: embema_oficial.png
 ---
 
