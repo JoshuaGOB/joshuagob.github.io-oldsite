@@ -1,7 +1,7 @@
 ---
 layout: article
 title: O Novo Mundo
-date: 2018-06-20
+date: 2018-06-01
 categories: Newspapers, Portuguese, XIX
 image:
 #  feature: images/01-Janeiro-1872.jpg

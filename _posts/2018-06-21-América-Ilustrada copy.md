@@ -1,7 +1,7 @@
 ---
-layout: article 
+layout: article
 title: Getting stuff out and people in
-date: 2018-06-10
+date: 2018-06-19
 categories: Newspapers, Spanish, XIX
 image:
 #  feature: biblioteca_historica.jpg
