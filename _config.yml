@@ -42,6 +42,7 @@ owner:
 
 include:
   - .htaccess
+  - _posts
 exclude:
   - "*.less"
   - "*.sublime-project"
