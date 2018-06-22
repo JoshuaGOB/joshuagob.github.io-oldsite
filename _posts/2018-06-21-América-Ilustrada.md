@@ -10,5 +10,6 @@ Praesent convallis cursus purus, vel egestas metus auctor non. Donec at tempor m
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt in sapien sed euismod. Quisque in tristique nibh. Nulla placerat ante vitae nisi viverra, id luctus massa sagittis. Phasellus tincidunt ultrices nisi, et cursus metus mollis sagittis. Proin dapibus ultricies turpis id fringilla. Nunc ut mauris ligula. Cras porttitor vestibulum risus, suscipit interdum ipsum tempus vel.
 
 ![América Ilustrada Cover]({{ "/assets/images/Laamericailustrada1872-01-30.jpg" | absolute_url }})
+![image tooltip here](/assets/images/Laamericailustrada1872-01-30.jpg")
 
 In at nulla tristique, faucibus ex ac, aliquam lorem. Ut mattis orci nec ligula varius, non auctor augue porttitor. Phasellus dignissim sodales nunc ac aliquet. Donec ut lacus vel orci pharetra ultricies sed nec metus. Donec a interdum libero, porta rhoncus nulla. Nulla malesuada lobortis magna at ultrices. In facilisis in velit quis pharetra. Vivamus volutpat sapien nec eleifend sodales. Quisque eget vulputate augue. Sed maximus libero tellus, quis tristique ex feugiat non. Nullam commodo, odio eget vestibulum pellentesque, ante turpis mattis erat, id posuere urna neque a neque. In hac habitasse platea dictumst. In hac habitasse platea dictumst. Phasellus sagittis erat sed dui sollicitudin efficitur.
