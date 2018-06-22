@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: media 
 title: Getting stuff out and people in
 date: 2018-06-10
 categories: Newspapers, Spanish, XIX
