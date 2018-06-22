@@ -1,5 +1,6 @@
 ---
 layout: default
+layout: article 
 title: O Novo Mundo
 date: 2018-06-20
 categories: Newspapers, Portuguese, XIX
