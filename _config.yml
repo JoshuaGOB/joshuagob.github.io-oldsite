@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   El Portal Digital del AGPR es un esfuerzo en conjunto entre
   el Archivo, sus investigadores y el público. Juntos hemos
   creado nuestra cultura y juntos la mantendremos viva.
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://github.com/joshuagob/joshuagob.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AGPR_ICP
 github_username:  joshuagob
 
