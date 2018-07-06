@@ -1,7 +1,7 @@
 ---
 title: "Posts"
 layout: posts
-permalink: /year-archive/
+permalink: "joshuagob.github.io/year-archive/
 author_profile: true
 
 ---
