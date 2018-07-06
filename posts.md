@@ -4,5 +4,5 @@
 
 layout: page
 title: Posts
-permalink: /posts/
+permalink: /_posts/
 ---
