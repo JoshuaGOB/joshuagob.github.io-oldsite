@@ -137,6 +137,8 @@ include:
   - .htaccess
   - _pages
   - _posts
+  - _categories
+  - year-archive 
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
