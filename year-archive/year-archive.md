@@ -1,11 +1,15 @@
 ---
 title: "Archived Posts"
-layout: archive-taxonomy
+layout: default
 permalink: "/year-archive/"
 author_profile: true
 
 ---
 
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
