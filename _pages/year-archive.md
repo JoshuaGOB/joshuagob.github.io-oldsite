@@ -3,6 +3,9 @@ title: "Archived Posts"
 layout: default
 permalink: "year-archive/"
 author_profile: true
+comments: true
+share: true
+related: true
 
 ---
 
