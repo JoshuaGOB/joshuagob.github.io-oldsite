@@ -21,10 +21,10 @@ title_separator          : "-"
 name                     : &name "Joshua Ortiz Baco"
 description              : &description "Cobbled."
 url                      : "https://joshuagob.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-# baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/cobbled" # the subpath of your site, e.g. "/blog"
 repository               : "joshuagob/joshuagob.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -77,9 +77,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "JGOB"
+  username               : "JGOB"
 facebook:
-  username               : &facebook "otroadoquin"
+  username               : "otroadoquin"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -89,8 +89,8 @@ social:
   type                   : Person # Person or Organization (defaults to Person)
   name                   : Joshua Ortiz Baco # If the user or organization name differs from the site's name
   links:
-    - "https://twitter.com/jgob"
-    - "https://facebook.com/otroadoquin" # An array of links to social media profiles
+    - https://twitter.com/jgob
+    - https://facebook.com/otroadoquin # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -113,7 +113,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : *facebook
+  facebook         : "otroadoquin"
   foursquare       :
   github           : "JoshuaGOB"
   gitlab           :
@@ -127,7 +127,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : *twitter
+  twitter          : "JGOB"
   vine             :
   weibo            :
   xing             :
