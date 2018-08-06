@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Joshua G. Ortiz Baco"
-  avatar           : "assets/images/apple-icon-114x114.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/apple-icon-114x114.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am person."
   location         : "Somewhere"
   email            : "joshuaortizbaco@utexas.edu"
