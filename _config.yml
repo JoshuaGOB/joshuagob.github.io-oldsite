@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Joshua G. Ortiz Baco"
 description              : "Look, a thing I made."
 url                      : "https://joshuagob.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/cobbled" # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "joshuagob/joshuagob.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/favicon/ms-icon-310x310.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
