@@ -1,18 +1,13 @@
-# Authors
-
-Billy Rick:
-  name        : "Billy Rick"
-  uri         : "http://thewhip.com"
-  email       : "billy@rick.com"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
-  twitter     : "extravagantman"
-  google_plus : "BillyRick"
-
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  email       : "cornelius@thewhip.com"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
-  twitter     : "rhymeswithsackit"
-  google_plus : "CorneliusFiddlebone"
+Tian Qi:
+  name: Tian Qi # your Name
+  url: https://tianqi.name
+  avatar: https://wx3.sinaimg.cn/large/73bd9e13ly1fjkqy66hl8j208c08c0td.jpg # your photo
+  bio: Author of TeXt.
+  email: kitian616@outlook.com # your Email address e.g. someone@site.com
+  facebook: # your Facebook username
+  twitter: kitian616 # your Twitter username
+  github: kitian616 # your GitHub username
+  linkedin: # your Linkedin username
+  googleplus: 101827554735084402671 # your Google+ username
+  weibo: 234695683 # your Weibo username
+  douban: # your Douban username
