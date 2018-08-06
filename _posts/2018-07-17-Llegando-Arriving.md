@@ -2,6 +2,7 @@
 layout: single
 title: "Llegando a casa, llegando al Blog" 
 date: "2018-07-17"
+permalink: "/_posts/2018-07-17-Llegando-Arriving"
 
 
 
