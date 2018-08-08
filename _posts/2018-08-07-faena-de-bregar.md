@@ -2,7 +2,7 @@
 layout: single
 title: "Bregar"
 date: "2018-08-07"
-categories: "cotidiano"
+categories: "Cotidiano" "Benson" "Library"
 classes:
   - wide
 

@@ -3,7 +3,7 @@
 layout: single
 title: "Enyoyando"
 date: "2018-08-06"
-categories: "cotidiano"
+categories: "Cotidiano"
 
 ---
 
