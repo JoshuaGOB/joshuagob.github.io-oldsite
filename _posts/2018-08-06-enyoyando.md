@@ -3,6 +3,7 @@
 layout: single
 title: "Enyoyando"
 date: "2018-08-06"
+permalink: "/_posts/2018-08-06-enyoyando"
 categories:
   - Cotidiano
 
