@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive0
 
 permalink: "/home"
 author_profile: true
@@ -10,7 +10,7 @@ classes:
 {% include adjusted_fixed_image_for_home.html %}
 
 
-<h2>Posts</h2>
+<h1>Posts</h1>
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
@@ -21,13 +21,13 @@ classes:
 {% unless collection.output == false or collection.label == "posts" %}
   {% capture label %}{{ collection.label }}{% endcapture %}
   {% if label != written_label %}
-  <h2>{{ label }}</h2>
+  <h4>{{ label }}</h4>
   {% capture written_label %}{{ label }}{% endcapture %}
   {% endif %}
 {% endunless %}
 {% for post in collection.docs %}
   {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
+  {% include archive-single0.html %}
   {% endunless %}
 {% endfor %}
 {% endfor %}
