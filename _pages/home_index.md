@@ -1,11 +1,11 @@
 ---
-layout: archive0
 
-permalink: "/home"
+layout: archive
+
+permalink: "/home/"
 author_profile: true
 classes:
   - landing
-  - wide
 ---
 {% include adjusted_fixed_image_for_home.html %}
 
