@@ -9,7 +9,8 @@ categories:
   - Library
 classes:
   - wide
-
+header:
+ teaser: /assets/images/benson_archive_stock_2018_01.jpg
 
 ---
 
