@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -113,9 +113,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/otroadoquin"
+  facebook         : "otroadoquin"
   foursquare       :
-  github           : "https://www.github.com/joshuagob"
+  github           : "joshuagob"
   gitlab           :
   google_plus      :
   keybase          :
@@ -127,7 +127,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "https://www.twitter.com/jgob"
+  twitter          : "jgob"
   vine             :
   weibo            :
   xing             :
@@ -138,6 +138,10 @@ author:
 include:
   - .htaccess
   - _pages
+  - home
+  - _posts
+  - year-archive
+  - categories-archive
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -221,7 +225,7 @@ whitelist:
   - jemoji
 
 #trying to make photos.google.com host the images instead of in the project folder
-cdn_path: https://photos.google.com/share/AF1QipNv4dU-iHeBBM01kIZlZ9-Y2Mv6INrK6S2yBAvnj4tQc5gPx2s6IizYiwv7qkpIcg/photo/AF1Qip
+
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)

@@ -2,7 +2,11 @@
 layout: single
 title: "Bregar"
 date: "2018-08-07"
-categories: "cotidiano"
+permalink: "/_posts/2018-08-07-faena-de-bregar"
+categories:
+  - Cotidiano
+  - Benson
+  - Library
 classes:
   - wide
 
