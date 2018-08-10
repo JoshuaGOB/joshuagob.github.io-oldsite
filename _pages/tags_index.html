@@ -1,0 +1,18 @@
+---
+
+title: "Tweets"
+layout: default
+permalink: "/tags/tags_index.html"
+author_profile: true
+comments: true
+share: true
+
+
+---
+{% for post in site.posts %}
+  {% if post.tags contains "tweet" %}
+	<br/>
+  {% else %}
+    <!-- normal post header -->
+  {% endif %}
+{% endfor %}

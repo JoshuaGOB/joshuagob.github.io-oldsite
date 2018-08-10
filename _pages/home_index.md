@@ -4,6 +4,7 @@ layout: archive
 
 permalink: "/home/"
 author_profile: true
+classes: wide
 
 ---
 <!--modified include template to have the image, it includes a srcset-->
