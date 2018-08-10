@@ -133,7 +133,9 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
-
+#responsive plugin
+# responsive_image:
+#   template: _includes/srcset.html
 # Reading Files
 include:
   - .htaccess

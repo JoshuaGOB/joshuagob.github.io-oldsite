@@ -4,10 +4,11 @@ layout: archive
 
 permalink: "/home/"
 author_profile: true
-classes:
-  - landing
+
 ---
+
 {% include adjusted_fixed_image_for_home.html %}
+
 
 
 <h1>Posts</h1>
