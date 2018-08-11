@@ -7,7 +7,6 @@ key: page-about
 
 ## Features
 
-- Responsive
 - Skins
 - Highlight Theme
 - Table of contents
