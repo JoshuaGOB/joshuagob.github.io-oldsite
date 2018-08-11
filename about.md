@@ -22,7 +22,6 @@ key: page-about
 - Comments ([Disqus](https://disqus.com/))
 - Google Analytics
 
-## Skins
 
 You can choose these 6 built-in skins below:
 
