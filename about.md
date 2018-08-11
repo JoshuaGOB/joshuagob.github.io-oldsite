@@ -7,7 +7,6 @@ key: page-about
 
 ## Features
 
-- Skins
 - Highlight Theme
 - Table of contents
 - Authors
