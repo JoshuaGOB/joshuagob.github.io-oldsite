@@ -11,7 +11,7 @@ main:
   - title: "Map"
     url: /_pages/map_index.html
   - title: "Tweets"
-    url: /tags/tags_index.html
+    url: /_pages/tweets_index
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"

@@ -218,6 +218,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-twitter-plugin
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -226,6 +227,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-twitter-plugin
 
 #Tweetsert is a plugin for Jekyll that pulls recent tweets from one or more Twitter handles,
 #then inserts them (dated appropriately) as regular posts on your site. You can specify which
