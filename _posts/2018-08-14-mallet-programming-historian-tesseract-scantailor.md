@@ -7,6 +7,7 @@ permalink: "/_posts/2018-08-14-mallet-programming-historian-tesseract-scantailor
 categories: 
  - Academia
  - Universidad
+classes: wide
 ---
 
 I have a pending task of finding a way of generating a multilingual site. The theme for this jekyll page has the ui text included but I think there are more steps involved in order to do a switchable site.
