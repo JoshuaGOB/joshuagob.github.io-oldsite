@@ -21,4 +21,4 @@ Y todo esto en el apartamento nuevo viejo.
 
 Cáele S.
 
-J.
+Día -1

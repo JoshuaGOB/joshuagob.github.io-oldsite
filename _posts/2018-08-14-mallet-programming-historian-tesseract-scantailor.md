@@ -33,3 +33,7 @@ I have the impression that the tutorials have to be kept relatively simple, it's
 I want to find a way to start drafting that document straight away, as I'm scanning the manuscripts for Kelly McDonough's undergraduate course, OCRing the rest of the documents, translating the texts for the post-custodial team, processing the Primeros Libros from Biblioteca Nacional de México and whatever teaching support I need to do for Lina del Castillo's class. 
 
 I'm hoping to have a clean copy of the Tesseract tutorial. It really doesn't lend itself to a visual guide and neither does Mallet but I think that's the preferred method.  
+
+
+
+Día -14
