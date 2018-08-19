@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "A charming typo"
-date: "08-18-2018"
+date: "2018-08-18"
 share: true
 permalink: "_posts/2018-08-18-a-charming-typo"
 categories:
