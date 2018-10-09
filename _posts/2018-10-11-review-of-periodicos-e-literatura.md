@@ -1,3 +1,13 @@
+layout: single
+title: "Review of *Periodicos e literatura Collection*"
+date: "2018-10-09"
+share: true
+permalink: "/_posts/2018-10-11-review-of-periodicos-e-literatura"
+categories:
+ - Academia
+classes: wide
+
+
 # Review of *Periodicos e literatura Collection*
 
 "Periódicos e literatura: publicações efêmeras, memória permanente." Edited by 
