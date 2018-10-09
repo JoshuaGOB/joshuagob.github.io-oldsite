@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Review of *Periodicos e literatura Collection*"
+title: "Review of Periodicos e literatura Collection"
 date: "2018-10-09"
 share: true
 permalink: "/_posts/2018-10-11-review-of-periodicos-e-literatura"
@@ -9,8 +9,6 @@ categories:
 classes: wide
 
 ---
-
-# Review of *Periodicos e literatura Collection*
 
 "Periódicos e literatura: publicações efêmeras, memória permanente." Edited by 
 Irineu E. Jones Corrêa et al., *Periódicos e Literatura*, Biblioteca Nacional Digital de Brasil, Fundação Biblioteca Nacional de Brasil, 2006, bndigital.bn.gov.br/dossies/periodicos-literatura/. Accessed 1 October 2018.
