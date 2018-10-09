@@ -1,3 +1,4 @@
+---
 layout: single
 title: "Review of *Periodicos e literatura Collection*"
 date: "2018-10-09"
@@ -7,6 +8,7 @@ categories:
  - Academia
 classes: wide
 
+---
 
 # Review of *Periodicos e literatura Collection*
 
