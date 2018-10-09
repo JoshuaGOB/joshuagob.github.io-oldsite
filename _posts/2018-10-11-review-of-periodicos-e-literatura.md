@@ -6,7 +6,6 @@ share: true
 permalink: "/_posts/2018-10-11-review-of-periodicos-e-literatura"
 categories:
  - Academia
-classes: wide
 
 ---
 
