@@ -1,7 +1,7 @@
 ---
 layout: posts
 
-permalink: "_posts/"
+permalink: "_posts/primary/"
 author_profile: true
 read_time: true
 comments: true
