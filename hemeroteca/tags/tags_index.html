@@ -1,0 +1,22 @@
+---
+
+title: "Tweets"
+layout: home
+permalink: "/tags/tags_index.html"
+author_profile: true
+comments: true
+share: true
+tweetsert:
+  enabled: true
+  timeline:
+    handles: 'jgob'
+    access_token: "42070947-9yogo8Zj980acVYmrB2O1mKSulbFfJfjvlMJASHdL"
+
+---
+
+{% if page.tweet %}
+<p>The following is a tweet:</p>
+<div class="my-tweet-class">{{ page.tweet }}</div>
+{% else %}
+  {{ content }}
+{% endif %}
