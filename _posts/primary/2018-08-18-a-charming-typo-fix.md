@@ -3,7 +3,7 @@ layout: single
 title: "A charming typo"
 date: "2018-08-18"
 share: true
-permalink: "/_posts/primary/2018-08-18-a-charming-typo-fix"
+permalink: "/_posts/2018-08-18-a-charming-typo-fix"
 categories:
  - Academia
  - Creative

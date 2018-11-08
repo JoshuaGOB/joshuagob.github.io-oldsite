@@ -3,7 +3,7 @@ layout: single
 title: "Final del verano"
 date: "2018-07-31"
 share: true
-permalink: "/_posts/primary/2018-07-29-Final-del-verano.html"
+permalink: "/_posts/2018-07-29-Final-del-verano.html"
 
 
 

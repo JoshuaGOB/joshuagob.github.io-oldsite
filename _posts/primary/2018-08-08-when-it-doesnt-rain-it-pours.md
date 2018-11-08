@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: "/_posts/primary/2018-08-08-when-it-doesnt-rain-it-pours"
+permalink: "/_posts/2018-08-08-when-it-doesnt-rain-it-pours"
 title: "Miré por la ventana..."
 date: "2018-08-08"
 categories:

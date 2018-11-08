@@ -3,7 +3,7 @@ layout: single
 title: "Mallet, Programming Historian, Tesseract y ScanTailor"
 date: "2018-08-14"
 share: true
-permalink: "/_posts/primary/2018-08-14-mallet-programming-historian-tesseract-scantailor"
+permalink: "/_posts/2018-08-14-mallet-programming-historian-tesseract-scantailor"
 categories:
  - Academia
  - Universidad

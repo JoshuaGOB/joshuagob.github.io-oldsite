@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: "/_posts/primary/2018-08-10-LorenaGautherau-postcustodial"
+permalink: "/_posts/2018-08-10-LorenaGautherau-postcustodial"
 title: "Thinking through post-custodial archives and what that means for research"
 date: "2018-08-08"
 categories:
