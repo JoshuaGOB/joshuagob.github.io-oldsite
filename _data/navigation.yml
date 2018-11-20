@@ -4,18 +4,16 @@ main:
     url: /home/
 ## cambia esto a posts después aquí y en el _config
   - title: "Posts"
-    url: /_posts/primary
-#  - title: "Archive"
-#    url: /year-archive/
-#  - title: "Categories"
-#    url: /categories-archive/
+    url: /_posts/
+  - title: "Archive"
+    url: /year-archive/
+  - title: "Categories"
+    url: /categories-archive/
   - title: "Map"
     url: /_pages/map_index.html
-#  - title: "Tweets"
-#    url: /_pages/tweets_index
-#  - title: "Quick-Start Guide"
-#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-#  - title: "About"
-#    url: https://mmistakes.github.io/minimal-mistakes/about/
-#  - title: "Posts"
-#    url: /_posts/secondary
+  - title: "Tweets"
+    url: /_pages/tweets_index
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
