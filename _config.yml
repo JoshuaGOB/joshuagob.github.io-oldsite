@@ -141,11 +141,12 @@ include:
   - .htaccess
   - _pages
   - home
-  - _posts
+  - _posts/secondary
   - year-archive
   - categories-archive
   - map
 exclude:
+  - _posts/primary
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
