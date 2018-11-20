@@ -4,7 +4,7 @@ main:
     url: /home/
 ## cambia esto a posts después aquí y en el _config
   - title: "Posts"
-    url: /_posts/
+    url: /_posts/primary/
   - title: "Archive"
     url: /year-archive/
   - title: "Categories"
